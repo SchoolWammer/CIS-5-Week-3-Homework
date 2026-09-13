@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Homework 3 — Joshua
+// Homework 3 — Joshua Van Brunt
 // CIS 5 Week 03 · Types & variables
 
 int main() {
